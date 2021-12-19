@@ -190,4 +190,4 @@ you can download it from (https://disk.yandex.com/d/1hi6kB_WQUp42g "is a compres
  ![Run](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Run.png)
 
 
-4. Linea a linea vamos ejecutando el boton de Run y esto ejecutara cada linea de Codigo arrojando su respectivo procesamiento en el Servidor Local.
+4. Line by line we are executing the Run button and this will execute each line of code and will show its respective processing in the Local Server.
