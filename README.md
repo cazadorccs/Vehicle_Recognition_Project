@@ -26,11 +26,11 @@ you can download it from (https://www.anaconda.com/products/individual "Anaconda
 Download For Windows")
 
 ![Anaconda](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Anaconda.png)
-    :target: https://www.anaconda.com/products/individual
+    target: https://www.anaconda.com/products/individual
 
  After installing Anaconda you can find it here
 
- ![Menu_windows]((https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Menu_windows.png)
+ ![Menu_windows](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Menu_windows.png)
 
 3. We have to open the anaconda prompt so from here we just install pip install
 
