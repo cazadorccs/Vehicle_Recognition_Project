@@ -169,5 +169,5 @@ you can download it from (https://disk.yandex.com/d/1hi6kB_WQUp42g "is a compres
 │   └── Vehicle_Recognition.ipynb
 ```
 
-6. Finally we must Run Jupyter Notebook (Anaconda3) and it will display a portal like the following one
+6. Finally we must run Jupyter Notebook (Anaconda3) and it will display a portal like the following in which we must click on the file **Vehicle_Recognition.ipynb**.
  ![Jupyter](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Jupiter.png)
