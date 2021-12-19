@@ -152,3 +152,22 @@ pip install seaborn
 4. Now we only have to download our data set and the project
 you can download it from (https://disk.yandex.com/d/1hi6kB_WQUp42g "is a compressed .rar file, that is the complete structure of our project.")
 
+5. We must unzip our project on the desktop of our pc in a folder according to the following folder structure
+
+```bash
+├── Vehicle_Recognition_Project
+│   ├── .ipynb_checkpoints
+│   ├── Prediction
+│   ├── test_set
+│   │   ├── cars              
+│   │   ├── Emergency_Vehicles
+│   │   └── suv
+│   ├── training_set
+│   │   ├── cars
+│   │   ├── Emergency_Vehicles
+│   │   └── suv
+│   └── Vehicle_Recognition.ipynb
+```
+
+6. Finally we must Run Jupyter Notebook (Anaconda3) and it will display a portal like the following one
+ ![Jupyter](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Jupiter.png)
