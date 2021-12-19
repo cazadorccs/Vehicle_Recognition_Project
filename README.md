@@ -169,5 +169,25 @@ you can download it from (https://disk.yandex.com/d/1hi6kB_WQUp42g "is a compres
 │   └── Vehicle_Recognition.ipynb
 ```
 
-6. Finally we must run Jupyter Notebook (Anaconda3) and it will display a portal like the following in which we must click on the file **Vehicle_Recognition.ipynb**.
+## Executing our Project
+
+1. First we must run Jupyter Notebook (Anaconda3) and it will display a portal like the following in which we must click on the file **Vehicle_Recognition.ipynb** this opens a second window in the browser that displays our code on a line.
+
  ![Jupyter](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Jupiter.png)
+
+2. We are going to restart by clicking on the Kernel menu and select the option from the drop down menu **"Subtract & Clear Ouput "** as shown in the following image. 
+
+ ![Restar](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Restart.png)
+
+ this allows us to restart our kernel to be able to run our image recognition code from scratch.
+
+ we must confirm
+
+ ![Restar](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Confirmation.png)
+
+3. Now we are ready to start running our code, to start we must click on the first line of code and then hit the RUN button in the Jupyter Notebook client-server menu.
+
+ ![Run](https://github.com/cazadorccs/Vehicle_Recognition_Project/blob/main/Run.png)
+
+
+4. Linea a linea vamos ejecutando el boton de Run y esto ejecutara cada linea de Codigo arrojando su respectivo procesamiento en el Servidor Local.
